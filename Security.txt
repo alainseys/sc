@@ -1,0 +1,15 @@
+# Our security policy
+Contact: mailto:alain.seys@outlook.com
+Contact: https://seys-consults.be
+
+# When this file expires (Recommended: maximum 1 year in the future)
+Expires: 2027-07-29T18:00:00.000Z
+
+# Link to encryption key for secure communication
+Encryption: https://seys-consults.be
+
+# Link to disclosure policy and guidelines
+Policy: https://seys-consults.be
+
+# List of preferred languages for reports
+Preferred-Languages: en, nl, fr
