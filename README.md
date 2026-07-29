@@ -1,2 +1,2 @@
 # sc
-seys consultings 
+wuk zoek je te ? 
